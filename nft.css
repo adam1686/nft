@@ -1,0 +1,15 @@
+:root{
+    --main-color:#11CAF0;
+}
+.colo:hover{
+    color: var(--main-color) !important;
+}
+.colo-bg{
+    background-color: var(--main-color);
+}
+.layer-parent:hover .img-layer{
+    opacity: 75% !important;
+}
+.img-layer i:hover{
+    color:white !important;
+}
